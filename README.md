@@ -13,7 +13,7 @@ Initially, the project included a redesigned Arduino Due with a bluetooth dongle
 </p>
 
 <p align="center">
-<img src="images/First prototype (3D).jpg" width="300" align = "center">
+<img src="images/First prototype (3D).png" width="300" align = "center">
 </p>
 
 The idea of the project consists in substitute the Arduino Due by a STM32F446, connect the bluetooth dongle to its native port, adapt the Arduino IDE and USB Host libraries for the new microcontroller and mount the electronics in a new humanoid chasis with litlle servomotors.
